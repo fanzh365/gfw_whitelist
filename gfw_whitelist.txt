@@ -136,9 +136,11 @@
 ||bdstatic.com
 ||behe.com
 ||beianbeian.com
+||biliapi.net
 ||bilibili.com
 ||biligame.com
 ||biligame.net
+||bilivideo.com
 ||bing.com
 ||blackyau.cc
 ||blizzard.cn
@@ -364,6 +366,7 @@
 ||kingsoft.com
 ||kmf.com
 ||knownsec.com
+||koolshare.cn
 ||krspace.cn
 ||ksyun.com
 ||ku6.com
@@ -691,6 +694,7 @@
 ||ynzs.cn
 ||youdao.com
 ||youku.com
+||cibntv.net
 ||youth.cn
 ||yunpian.com
 ||yunshipei.com
