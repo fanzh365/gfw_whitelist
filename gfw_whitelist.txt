@@ -668,6 +668,7 @@
 ||xiachufang.com
 ||xiami.com
 ||xiaomi.com
+||ximalaya.com
 ||xinhuanet.com
 ||xitu.io
 ||xldns.net
