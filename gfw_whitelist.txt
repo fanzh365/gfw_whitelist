@@ -669,6 +669,7 @@
 ||xiami.com
 ||xiaomi.com
 ||ximalaya.com
+||xmcdn.com
 ||xinhuanet.com
 ||xitu.io
 ||xldns.net
