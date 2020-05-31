@@ -391,6 +391,7 @@
 ||letvimg.com
 ||liaoxuefeng.com
 ||liepin.com
+||linkstars.com
 ||linuxidc.com
 ||liyin.date
 ||lizhi.io
@@ -709,6 +710,7 @@
 ! Z
 ||zaih.com
 ||zcool.com.cn
+||zdmimg.com
 ||zhan.com
 ||zhangyao.name
 ||zhanqi.tv
