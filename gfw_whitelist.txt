@@ -1,6 +1,5 @@
 ! Regex
 /.+\.com\.cn/
-/.cn/
 /.+ac.cn/
 /.+acs.cn/
 /.+chaoxing.com/
@@ -293,6 +292,7 @@
 ||huanqiu.com
 ||huawei.com
 ||huaweicloud.com
+||huihui.cn
 ||huiji.wiki
 ||huijistatic.com
 ||huijiwiki.com
